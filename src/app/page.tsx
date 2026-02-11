@@ -13,6 +13,9 @@ export default function Home() {
         height={500}
         className="mb-6"
       />
+      <h1 className="text-6xl text-[#f9e052] font-bold mb-6">
+        ST GULF FASHION
+      </h1>
 
       <h1 className="text-5xl font-bold mb-6">Website is coming!!!</h1>
 
